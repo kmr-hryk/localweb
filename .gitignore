@@ -1,4 +1,7 @@
-/web
+/web/*.html
+/web/*.css
+/web/*.js
+
 # Created by https://www.gitignore.io/api/go
 
 ### Go ###
